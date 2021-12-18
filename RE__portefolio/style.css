@@ -1,0 +1,22 @@
+.menu{
+    margin: 05px 10px;
+    padding: 05px 10px;
+    color: blue;
+    display: inline-block;
+    width: 200px;
+    text-decoration: none;
+    
+    }
+
+.imgbar{
+    margin-right: 50px;
+    width: 80px;
+ }
+
+ .barnav{
+ background: rgb(169, 216, 188);
+ margin: 1cm;
+ display: flex;
+ align-items: center;
+
+  }
